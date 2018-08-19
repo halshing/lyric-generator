@@ -1,0 +1,14 @@
+{
+  "name": "eminem-lyric-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Hasan Shingieti",
+  "license": "ISC",
+  "dependencies": {
+    "osmosis": "^1.1.8"
+  }
+}

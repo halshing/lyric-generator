@@ -1,6 +1,8 @@
-# Eminem Lyrics Generator
-Run in Node.js
+# Lyrics Generator
+Generate new lyrics based on Eminem songs
 
-Start generating lyrics by running: `node .\app.js`
+### Installation
+`npm install`
 
-(Optional) To run getSongs.js, first install [Osmosis](https://github.com/rchipka/node-osmosis): `npm install osmosis`
+### Usage
+Start generating lyrics by running `npm start`

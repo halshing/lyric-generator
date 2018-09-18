@@ -5,4 +5,4 @@ Generate new lyrics based on Eminem songs
 `npm install`
 
 ### Usage
-Start generating lyrics by running `npm start`
+Start generating lyrics by running `node app`
